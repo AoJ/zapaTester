@@ -1,0 +1,11 @@
+{
+    "name": "zapaTester"
+  , "version": "0.0.1"
+  , "description": "my tester"
+  , "keywords": []
+  , "author": "AoJ on F <aoj@n13.cz>"
+  , "dependencies": {}
+  , "main": "index"
+  , "engines": { "node": "0.4.x" }
+  , "repository": { "type": "git", "url": "git://github.com/AoJ/zapaTester.git" }
+}
